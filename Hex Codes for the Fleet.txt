@@ -1,0 +1,12 @@
+Hex Codes for the Fleet
+Main:	C39E0D (Ochre)
+	000B5F (Indigo)
+Auxiliary Indigos:
+		A3A9D5 (lighest)
+		23284C (desaturated dark blue)
+		020417 (midnight blue)
+Auxiliary Ochres:
+		EBD88D (lightest)
+		98894C (dark camel)
+		585031 (dark sand)
+		
